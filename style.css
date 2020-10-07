@@ -1,0 +1,46 @@
+/* Building Websites CSS 30/11/2019 Author P Lacey */
+/* ---------------------------------------------------
+Reset
+-----------------------------------------------------*/
+* {
+  margin: 0;
+  padding: 0;
+}
+
+/* ---------------------------------------------------
+General Site Pages
+-----------------------------------------------------*/
+body {
+    background: #fff;
+}
+
+h1 {
+  color: #005;
+  font-size: 2.5em;
+  padding: 10px;
+  text-shadow: 3px 3px 3px #999;
+}
+
+p {
+	font-size: 1.5em;
+	color: #005;
+	text-shadow: 3px 3px 3px #999;
+}
+
+hr {
+	background-color:#EEE8AA;
+	width:60%;
+	margin:auto;
+}
+
+.container {
+	width: 80%;
+}
+
+.pre {
+   margin:auto;
+   color: #005;
+   font-size: 1.5em;
+   padding: 1px;
+   text-shadow: 3px 3px 3px #999;
+}
